@@ -21,5 +21,3 @@
 ### 📊 Github Account Stats:
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Predoh1709&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Predoh1709&theme=github_dark) |
 |:-:| :-: |
-
-![snake animation](https://github.com/Predoh1709/Predoh1709/blob/output/github-contribution-grid-snake.svg)
